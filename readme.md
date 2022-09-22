@@ -16,5 +16,6 @@ The rdf triple is in [data](https://github.com/ninggar17/Lexid/tree/master/data)
 ### Query Example
 In Progress
 
-##Contact
+Contact
+==============
 ninggar.ninggar@gmail.com
