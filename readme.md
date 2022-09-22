@@ -11,11 +11,10 @@ The knowledge graph constructed from the indonesian legal document, which can be
 [LexidOntology.owl](https://github.com/ninggar17/Lexid/blob/first/LexidOntology.owl) is our ontology schema
 
 ### The Triple Data
-The rdf triple is in [data](https://github.com/ninggar17/Lexid/tree/master/data). Use [turtle_map.csv](https://github.com/ninggar17/Lexid/blob/master/data/turtle_map.csv) to see the location of turtle file of specific legal document!
+The rdf triple is in [data](https://github.com/ninggar17/Lexid/tree/master/data). Use [turtle_map.csv](https://github.com/ninggar17/Lexid/blob/master/data/turtle_map.csv) to get the location of turtle file of specific legal document.
 
 ### Query Example
 In Progress
 
-Contact
-==============
+##Contact
 ninggar.ninggar@gmail.com
