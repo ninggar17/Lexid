@@ -1,0 +1,2094 @@
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix wd: <https://www.wikidata.org/wiki/> .
+@prefix lexid-s: <https://w3id.org/lex-id/schema/> .
+@prefix lexid: <https://w3id.org/lex-id/data/> .
+  
+  
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_40_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:hasRule lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_41_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_41_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_42_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_42_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_43_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_43_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_44_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_44_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_46_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_46_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_47_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_47_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_48_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Article_2 .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_6_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasActType lexid:Concept_Telah_Diubah .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_7_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_8_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_10_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifier lexid:Concept_11_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasElement lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_49_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_49_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasActType lexid:Concept_Mulai_Berlaku .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasAct lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifier lexid:Concept_2_Perkab_Indragiri_Hilir_2010_50_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifier lexid:Concept_3_Perkab_Indragiri_Hilir_2010_50_Article_2 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:hasSubject lexid: .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:hasAct lexid:And_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:hasElement lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:hasElement lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_1 .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:hasActType lexid:Concept_Dicabut .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:hasActType lexid:Concept_Dinyatakan_Tidak_Berlaku .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_41_Article_2 .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_42_Article_2 .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_43_Article_2 .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_44_Article_2 .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_46_Article_2 .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_47_Article_2 .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Article_2 .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue "48"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue "2002"^^xsd:int .
+lexid:Numeralconcept_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue "2007"^^xsd:int .
+lexid:Numeralconcept_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue "04"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_49_Article_2 .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifierValue "2011"^^xsd:int .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifierValue "1"^^xsd:int .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifier lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_50_Article_2 .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Di .
+lexid:Concept_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Undefined .
+lexid:Concept_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Untuk .
+lexid:Concept_6_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Untuk .
+lexid:Concept_7_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Sebagaimana .
+lexid:Concept_8_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Dengan .
+lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Di .
+lexid:Concept_10_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Undefined .
+lexid:Concept_11_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierType lexid:Concept_Untuk .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifierType lexid:Concept_Pada .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifierType lexid:Concept_Nmod .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid:Concept_Bidang_Pariwisata .
+lexid:Concept_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid:Concept_Lembaran_Daerah_Kabupaten_Indragiri_Hilir_Tahun .
+lexid:Concept_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid:Concept_Nomor .
+lexid:Concept_6_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid:Concept_Seri_C_Nomor_47 .
+lexid:Concept_7_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Concept_8_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid: .
+lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid:Concept_Bidang_Pariwisata .
+lexid:Concept_10_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid:Concept_Lembaran_Daerah_Kabupaten_Indragiri_Hilir_Tahun .
+lexid:Concept_11_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasQualifierValue lexid:Concept_Nomor .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifierValue lexid:Concept_Tanggal .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasQualifierValue lexid:Concept_Januari .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:hasSubject lexid:Concept_Peraturan_Daerah_Ini .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasCondition lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasCondition lexid:Act_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasActType lexid:Concept_Berupa .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasActType lexid:Concept_Berupa .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasSubject lexid:Concept_Bidang_Pariwisata .
+lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:hasSubject lexid:Concept_Bidang_Pariwisata .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:isRuleOf lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:AndExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:CompoundExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Dicabut rdf:type lexid-s:Concept .
+lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi rdf:type lexid-s:Concept .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_40_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Concept_Pajak_Terutang rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Concept_Pembayarannya rdf:type lexid-s:Concept .
+lexid:Concept_Belum rdf:type lexid-s:Concept .
+lexid:Concept_Belum_Diselesaikan rdf:type lexid-s:Concept .
+lexid:Concept_Oleh rdf:type lexid-s:Concept .
+lexid:Concept_Wajib_Pajak rdf:type lexid-s:Concept .
+lexid:Concept_Tetap rdf:type lexid-s:Concept .
+lexid:Concept_Merupakan rdf:type lexid-s:Concept .
+lexid:Concept_Kewajiban rdf:type lexid-s:Concept .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Concept_Harus rdf:type lexid-s:Concept .
+lexid:Concept_Diselesaikan rdf:type lexid-s:Concept .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Concept_Bersangkutan rdf:type lexid-s:Concept .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_Peraturan_Daerah_Ini rdf:type lexid-s:Concept .
+lexid:Concept_Mulai_Berlaku rdf:type lexid-s:Concept .
+lexid:Concept_Pada rdf:type lexid-s:Concept .
+lexid:Concept_Tanggal rdf:type lexid-s:Concept .
+lexid:Concept_Januari rdf:type lexid-s:Concept .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_41_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Concept_Retribusi_Terutang rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Concept_Wajib_Retribusi rdf:type lexid-s:Concept .
+lexid:Concept_Suatu_Kewajiban rdf:type lexid-s:Concept .
+lexid:Concept_Bagi rdf:type lexid-s:Concept .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_42_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Concept_Merupakan_Kewajiban rdf:type lexid-s:Concept .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_43_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Tidak rdf:type lexid-s:Concept .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_44_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_46_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_47_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Di rdf:type lexid-s:Concept .
+lexid:Concept_Bidang_Pariwisata rdf:type lexid-s:Concept .
+lexid:Concept_Lembaran_Daerah_Kabupaten_Indragiri_Hilir_Tahun rdf:type lexid-s:Concept .
+lexid:Concept_Nomor rdf:type lexid-s:Concept .
+lexid:Concept_Seri_C_Nomor_47 rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Concept_Telah rdf:type lexid-s:Concept .
+lexid:Concept_Telah_Diubah rdf:type lexid-s:Concept .
+lexid:Concept_Dengan rdf:type lexid-s:Concept .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_48_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_49_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:Norm .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:Norm .
+lexid:Concept_Dinyatakan_Tidak_Berlaku rdf:type lexid-s:Concept .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_50_Section_1_2_Root rdf:type lexid-s:Concept .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:Concept .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:Concept .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:Section .
+lexid:Concept_Nmod rdf:type lexid-s:Concept .
+lexid:Concept_Sebagaimana rdf:type lexid-s:Concept .
+lexid:Concept_Undefined rdf:type lexid-s:Concept .
+lexid:Concept_Untuk rdf:type lexid-s:Concept .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_6_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_7_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_8_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_10_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_11_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:Article .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:Article .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleAct .
+lexid:Concept_Berupa rdf:type lexid-s:Concept .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Dicabut rdf:type lexid-s:RuleExpression .
+lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_40_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Concept_Pajak_Terutang rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Pembayarannya rdf:type lexid-s:RuleExpression .
+lexid:Concept_Belum rdf:type lexid-s:RuleExpression .
+lexid:Concept_Belum_Diselesaikan rdf:type lexid-s:RuleExpression .
+lexid:Concept_Oleh rdf:type lexid-s:RuleExpression .
+lexid:Concept_Wajib_Pajak rdf:type lexid-s:RuleExpression .
+lexid:Concept_Tetap rdf:type lexid-s:RuleExpression .
+lexid:Concept_Merupakan rdf:type lexid-s:RuleExpression .
+lexid:Concept_Kewajiban rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Harus rdf:type lexid-s:RuleExpression .
+lexid:Concept_Diselesaikan rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Bersangkutan rdf:type lexid-s:RuleExpression .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_Peraturan_Daerah_Ini rdf:type lexid-s:RuleExpression .
+lexid:Concept_Mulai_Berlaku rdf:type lexid-s:RuleExpression .
+lexid:Concept_Pada rdf:type lexid-s:RuleExpression .
+lexid:Concept_Tanggal rdf:type lexid-s:RuleExpression .
+lexid:Concept_Januari rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_41_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Concept_Retribusi_Terutang rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Wajib_Retribusi rdf:type lexid-s:RuleExpression .
+lexid:Concept_Suatu_Kewajiban rdf:type lexid-s:RuleExpression .
+lexid:Concept_Bagi rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_42_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Merupakan_Kewajiban rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_43_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Tidak rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_44_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_46_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_47_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Di rdf:type lexid-s:RuleExpression .
+lexid:Concept_Bidang_Pariwisata rdf:type lexid-s:RuleExpression .
+lexid:Concept_Lembaran_Daerah_Kabupaten_Indragiri_Hilir_Tahun rdf:type lexid-s:RuleExpression .
+lexid:Concept_Nomor rdf:type lexid-s:RuleExpression .
+lexid:Concept_Seri_C_Nomor_47 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Telah rdf:type lexid-s:RuleExpression .
+lexid:Concept_Telah_Diubah rdf:type lexid-s:RuleExpression .
+lexid:Concept_Dengan rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_48_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_49_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Dinyatakan_Tidak_Berlaku rdf:type lexid-s:RuleExpression .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_50_Section_1_2_Root rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:RuleExpression .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_Nmod rdf:type lexid-s:RuleExpression .
+lexid:Concept_Sebagaimana rdf:type lexid-s:RuleExpression .
+lexid:Concept_Undefined rdf:type lexid-s:RuleExpression .
+lexid:Concept_Untuk rdf:type lexid-s:RuleExpression .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_6_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_7_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_8_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_10_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_11_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:RuleExpression .
+lexid:Concept_Berupa rdf:type lexid-s:RuleExpression .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type owl:Thing .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Dicabut rdf:type owl:Thing .
+lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_40_Section_1_2_Root rdf:type owl:Thing .
+lexid:Concept_Pajak_Terutang rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_Pembayarannya rdf:type owl:Thing .
+lexid:Concept_Belum rdf:type owl:Thing .
+lexid:Concept_Belum_Diselesaikan rdf:type owl:Thing .
+lexid:Concept_Oleh rdf:type owl:Thing .
+lexid:Concept_Wajib_Pajak rdf:type owl:Thing .
+lexid:Concept_Tetap rdf:type owl:Thing .
+lexid:Concept_Merupakan rdf:type owl:Thing .
+lexid:Concept_Kewajiban rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_Harus rdf:type owl:Thing .
+lexid:Concept_Diselesaikan rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_Bersangkutan rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_2 rdf:type owl:Thing .
+lexid:Concept_Peraturan_Daerah_Ini rdf:type owl:Thing .
+lexid:Concept_Mulai_Berlaku rdf:type owl:Thing .
+lexid:Concept_Pada rdf:type owl:Thing .
+lexid:Concept_Tanggal rdf:type owl:Thing .
+lexid:Concept_Januari rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_41_Section_1_2_Root rdf:type owl:Thing .
+lexid:Concept_Retribusi_Terutang rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_Wajib_Retribusi rdf:type owl:Thing .
+lexid:Concept_Suatu_Kewajiban rdf:type owl:Thing .
+lexid:Concept_Bagi rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_42_Section_1_2_Root rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_Merupakan_Kewajiban rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_43_Section_1_2_Root rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Tidak rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_44_Section_1_2_Root rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_46_Section_1_2_Root rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_47_Section_1_2_Root rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Di rdf:type owl:Thing .
+lexid:Concept_Bidang_Pariwisata rdf:type owl:Thing .
+lexid:Concept_Lembaran_Daerah_Kabupaten_Indragiri_Hilir_Tahun rdf:type owl:Thing .
+lexid:Concept_Nomor rdf:type owl:Thing .
+lexid:Concept_Seri_C_Nomor_47 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Telah rdf:type owl:Thing .
+lexid:Concept_Telah_Diubah rdf:type owl:Thing .
+lexid:Concept_Dengan rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_48_Section_1_2_Root rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_49_Section_1_2_Root rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Dinyatakan_Tidak_Berlaku rdf:type owl:Thing .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_50_Section_1_2_Root rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type owl:Thing .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type owl:Thing .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type owl:Thing .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Numeralconcept_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type owl:Thing .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type owl:Thing .
+lexid:Concept_Nmod rdf:type owl:Thing .
+lexid:Concept_Sebagaimana rdf:type owl:Thing .
+lexid:Concept_Undefined rdf:type owl:Thing .
+lexid:Concept_Untuk rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_6_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_7_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_8_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_10_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_11_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type owl:Thing .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type owl:Thing .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type owl:Thing .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Concept_Berupa rdf:type owl:Thing .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 40 Section 1 1"^^xsd:string .
+lexid:Concept_Dicabut rdfs:label "Concept Dicabut"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 40 Section 1 1"^^xsd:string .
+lexid:Concept_Dinyatakan_Tidak_Berlaku_Lagi rdfs:label "Concept Dinyatakan Tidak Berlaku Lagi"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_40_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 40 Section 1 2 Root"^^xsd:string .
+lexid:Concept_Pajak_Terutang rdfs:label "Concept Pajak Terutang"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Concept_Pembayarannya rdfs:label "Concept Pembayarannya"^^xsd:string .
+lexid:Concept_Belum rdfs:label "Concept Belum"^^xsd:string .
+lexid:Concept_Belum_Diselesaikan rdfs:label "Concept Belum Diselesaikan"^^xsd:string .
+lexid:Concept_Oleh rdfs:label "Concept Oleh"^^xsd:string .
+lexid:Concept_Wajib_Pajak rdfs:label "Concept Wajib Pajak"^^xsd:string .
+lexid:Concept_Tetap rdfs:label "Concept Tetap"^^xsd:string .
+lexid:Concept_Merupakan rdfs:label "Concept Merupakan"^^xsd:string .
+lexid:Concept_Kewajiban rdfs:label "Concept Kewajiban"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Concept_Harus rdfs:label "Concept Harus"^^xsd:string .
+lexid:Concept_Diselesaikan rdfs:label "Concept Diselesaikan"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Concept_Bersangkutan rdfs:label "Concept Bersangkutan"^^xsd:string .
+lexid:Concept_Peraturan_Daerah_Ini rdfs:label "Concept Peraturan Daerah Ini"^^xsd:string .
+lexid:Concept_Mulai_Berlaku rdfs:label "Concept Mulai Berlaku"^^xsd:string .
+lexid:Concept_Pada rdfs:label "Concept Pada"^^xsd:string .
+lexid:Concept_Tanggal rdfs:label "Concept Tanggal"^^xsd:string .
+lexid:Concept_Januari rdfs:label "Concept Januari"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 41 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 41 Section 1 1"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 41 Section 1 1"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_41_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 41 Section 1 2 Root"^^xsd:string .
+lexid:Concept_Retribusi_Terutang rdfs:label "Concept Retribusi Terutang"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Concept_Wajib_Retribusi rdfs:label "Concept Wajib Retribusi"^^xsd:string .
+lexid:Concept_Suatu_Kewajiban rdfs:label "Concept Suatu Kewajiban"^^xsd:string .
+lexid:Concept_Bagi rdfs:label "Concept Bagi"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 42 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 42 Section 1 1"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 42 Section 1 1"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_42_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 42 Section 1 2 Root"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Concept_Merupakan_Kewajiban rdfs:label "Concept Merupakan Kewajiban"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 43 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 43 Section 1 1"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 43 Section 1 1"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_43_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 43 Section 1 2 Root"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 44 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 44 Section 1 1"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 44 Section 1 1"^^xsd:string .
+lexid:Concept_Tidak rdfs:label "Concept Tidak"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_44_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 44 Section 1 2 Root"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 46 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 46 Section 1 1"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 46 Section 1 1"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_46_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 46 Section 1 2 Root"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 47 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 47 Section 1 1"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 47 Section 1 1"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_47_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 47 Section 1 2 Root"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 48 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 48 Section 1 1"^^xsd:string .
+lexid:Concept_Di rdfs:label "Concept Di"^^xsd:string .
+lexid:Concept_Bidang_Pariwisata rdfs:label "Concept Bidang Pariwisata"^^xsd:string .
+lexid:Concept_Lembaran_Daerah_Kabupaten_Indragiri_Hilir_Tahun rdfs:label "Concept Lembaran Daerah Kabupaten Indragiri Hilir Tahun"^^xsd:string .
+lexid:Concept_Nomor rdfs:label "Concept Nomor"^^xsd:string .
+lexid:Concept_Seri_C_Nomor_47 rdfs:label "Concept Seri C Nomor 47"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Concept_Telah rdfs:label "Concept Telah"^^xsd:string .
+lexid:Concept_Telah_Diubah rdfs:label "Concept Telah Diubah"^^xsd:string .
+lexid:Concept_Dengan rdfs:label "Concept Dengan"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 48 Section 1 1"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_48_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 48 Section 1 2 Root"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 49 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 49 Section 1 1"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 49 Section 1 1"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_49_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 49 Section 1 2 Root"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Article_2 rdfs:label "Norm Perkab Indragiri Hilir 2010 50 Article 2"^^xsd:string .
+lexid:Norm_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdfs:label "Norm Perkab Indragiri Hilir 2010 50 Section 1 1"^^xsd:string .
+lexid:And_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdfs:label "And 1 Perkab Indragiri Hilir 2010 50 Section 1 1"^^xsd:string .
+lexid:Concept_Dinyatakan_Tidak_Berlaku rdfs:label "Concept Dinyatakan Tidak Berlaku"^^xsd:string .
+lexid:Concept_Perkab_Indragiri_Hilir_2010_50_Section_1_2_Root rdfs:label "Concept Perkab Indragiri Hilir 2010 50 Section 1 2 Root"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "Act 5"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdfs:label "Act 5"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_48_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Article_2 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Act 3"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Act_1_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdfs:label "Act 1"^^xsd:string .
+lexid:Act_2_Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdfs:label "Act 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 40 Section 1 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_41_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 41 Article 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_42_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 42 Article 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_43_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 43 Article 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_44_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 44 Article 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_46_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 46 Article 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_47_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 47 Article 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 48 Article 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 48 Section 1 1"^^xsd:string .
+lexid:Numeralconcept_2_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Numeralconcept 2 Perkab Indragiri Hilir 2010 48 Section 1 1"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_49_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 49 Article 2"^^xsd:string .
+lexid:Numeralconcept_1_Perkab_Indragiri_Hilir_2010_50_Article_2 rdfs:label "Numeralconcept 1 Perkab Indragiri Hilir 2010 50 Article 2"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_1_Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_Nmod rdfs:label "Concept Nmod"^^xsd:string .
+lexid:Concept_Sebagaimana rdfs:label "Concept Sebagaimana"^^xsd:string .
+lexid:Concept_Undefined rdfs:label "Concept Undefined"^^xsd:string .
+lexid:Concept_Untuk rdfs:label "Concept Untuk"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_41_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_41_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_42_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_42_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_43_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_43_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_44_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_44_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_46_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_46_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_47_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_47_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_48_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 4"^^xsd:string .
+lexid:Concept_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 5"^^xsd:string .
+lexid:Concept_6_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 6"^^xsd:string .
+lexid:Concept_7_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 7"^^xsd:string .
+lexid:Concept_8_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 8"^^xsd:string .
+lexid:Concept_9_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 9"^^xsd:string .
+lexid:Concept_10_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_11_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Concept 1"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_49_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_49_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Concept_2_Perkab_Indragiri_Hilir_2010_50_Article_2 rdfs:label "Concept 2"^^xsd:string .
+lexid:Concept_3_Perkab_Indragiri_Hilir_2010_50_Article_2 rdfs:label "Concept 3"^^xsd:string .
+lexid:Act_4_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Act 4"^^xsd:string .
+lexid:Act_5_Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "Act 5"^^xsd:string .
+lexid:Concept_Berupa rdfs:label "Concept Berupa"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 dct:description """Peraturan Daerah Nomor 87 Tahun 1992 tentang Pajak Rumah Bola
+(Lembaran Daerah Kabupaten Indragiri Hilir Tahun 1993 Nomor 9 Seri A
+Nomor 1) dicabut dan dinyatakan tidak berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 dct:description """Pajak terutang yang pembayarannya belum diselesaikan oleh Wajib
+Pajak tetap merupakan kewajiban yang harus diselesaikan oleh Wajib
+Pajak yang bersangkutan
+Pasal 2
+Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 dct:description """Peraturan Daerah Nomor 61 Tahun 2000 tentang Retribusi Lalu Lintas
+Hasil Hutan Dalam Kabupaten Indragiri Hilir (Lembaran Daerah
+Kabupaten Indragiri Hilir Tahun 2000 Nomor 70 Seri B Nomor 14)
+dicabut dan dinyatakan tidak berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 dct:description """Retribusi terutang yang pembayarannya belum diselesaikan oleh Wajib
+Retribusi tetap merupakan suatu kewajiban bagi Wajib Retribusi yang
+bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 dct:description """Peraturan Daerah Nomor 09 Tahun 1991 tentang Izin dan Pajak
+Pembuatan Kapal Kayu (Lembaran Daerah Kabupaten Indragiri Hilir
+Tahun 1996 Nomor 15 Seri A Nomor 2) dicabut dan dinyatakan tidak
+berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 dct:description """Pajak terutang yang pembayarannya belum diselesaikan oleh Wajib
+Pajak tetap merupakan kewajiban yang harus diselesaikan oleh Wajib
+Pajak yang bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 dct:description """Peraturan Daerah Nomor 57 Tahun 2000 tentang Retribusi Dokumen
+Pengadaan Barang dan Jasa Atas Pemberian Pekerjaan (Lembaran
+Daerah Kabupaten Indragiri Hilir Tahun 2000 Nomor 67 Seri B Nomor
+11) dicabut dan dinyatakan tidak berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 dct:description """Retribusi terutang yang pembayarannya belum diselesaikan oleh Wajib
+Retribusi tetap merupakan suatu kewajiban bagi Wajib Retribusi yang
+bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 dct:description """Peraturan Daerah Nomor 12 Tahun 2005 tentang Retribusi Izin
+Penyelenggaraan Minyak dan Gas Bumi (Lembaran Daerah Kabupaten
+Indragiri Hilir Tahun 2005 Nomor 12) dicabut dan dinyatakan tidak
+berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 dct:description """Retribusi terutang yang pembayarannya belum diselesaikan oleh Wajib
+Retribusi tetap merupakan suatu kewajiban bagi Wajib Retribusi yang
+bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 dct:description """Peraturan Daerah Nomor 10 Tahun 2005 tentang Retribusi Usaha
+Pertambangan Umum Daerah Kabupaten Indragiri Hilir (Lembaran
+Daerah Kabupaten Indragiri Hilir Tahun 2005 Nomor 10) dicabut dan
+dinyatakan tidak berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 dct:description """Retribusi terutang yang pembayarannya belum diselesaikan oleh Wajib
+Retribusi tetap merupakan suatu kewajiban bagi Wajib Retribusi yang
+bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 dct:description """Peraturan Daerah Nomor 07 Tahun 2005 tentang Pengawasan dan
+Pemeliharaan Jembatan Di Kabupaten Indragiri Hilir (Lembaran Daerah
+Kabupaten Indragiri Hilir Tahun 2005 Nomor 07) dicabut dan dinyatakan
+tidak berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 dct:description """Retribusi terutang yang pembayarannya belum diselesaikan oleh Wajib
+Retribusi tetap merupakan suatu kewajiban bagi Wajib Retribusi yang
+bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 dct:description """Peraturan Daerah Nomor 48 Tahun 2002 tentang Retribusi Perizinan
+Kegiatan Usaha di Bidang Pariwisata (Lembaran Daerah Kabupaten
+Indragiri Hilir Tahun 2002 Nomor 48 Seri C Nomor 47) sebagaimana
+telah diubah dengan Peraturan Daerah Nomor 04 Tahun 2007 tentang
+Perubahan Atas Peraturan Daerah Kabupaten Indragiri Hilir Nomor 48
+Tahun 2002 tentang Retribusi Perizinan Kegiatan Usaha di Bidang
+Pariwisata (Lembaran Daerah Kabupaten Indragiri Hilir Tahun 2007
+Nomor 04) dicabut dan dinyatakan tidak berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 dct:description """Retribusi terutang yang pembayarannya belum diselesaikan oleh Wajib
+Retribusi tetap merupakan suatu kewajiban bagi Wajib Retribusi yang
+bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 dct:description """Peraturan Daerah Nomor 23 Tahun 2001 tentang Retribusi Pendaftaran
+Kapal dan Surat Keterangan Kelayakan Dalam Wilayah Kabupaten
+Indragiri Hilir (Lembaran Daerah Kabupaten Indragiri Hilir Tahun 2001
+Nomor 23) dicabut dan dinyatakan tidak berlaku lagi."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 dct:description """Retribusi terutang yang pembayarannya belum diselesaikan oleh Wajib
+Retribusi tetap merupakan suatu kewajiban bagi Wajib Retribusi yang
+bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 dct:description """Peraturan Daerah ini mulai berlaku pada tanggal 1 Januari 2011."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 dct:description """Peraturan Daerah Nomor 67 Tahun 2000 tentang Retribusi Kendaraan
+Tidak Bermotor (Lembaran Daerah Kabupaten Indragiri Hilir Tahun 2000
+Nomor 75 Seri B Nomor 19), dicabut dan dinyatakan tidak berlaku."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 dct:description """Retribusi terutang yang pembayarannya belum diselesaikan oleh Wajib
+Retribusi tetap merupakan suatu kewajiban bagi Wajib Retribusi yang
+bersangkutan."""^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_40_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_41_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_42_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_43_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_44_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_46_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_47_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_48_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_49_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:name "(1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdfs:label "ayat 1 : (1)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 lexid-s:isPartOf lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 lexid-s:hasPart lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 lexid-s:name "(2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdfs:label "ayat 2 : (2)"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 lexid-s:name "Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 rdfs:label "Pasal 1 : Pasal 1"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_1 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:isContentOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasContent lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:Article .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 lexid-s:name "Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 rdfs:label "Pasal 2 : Pasal 2"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type lexid-s:LegalDocumentContent .
+lexid:Perkab_Indragiri_Hilir_2010_50_Article_2 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 11 (sebelas) jenis Pajak Kabupaten/Kota"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 1 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang pajak daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota sebagaimana dimaksud dalam Pasal 2 ayat (2) Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 87 Tahun 1992 tentang Pajak Rumah Bola."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 87 TAHUN 1992 TENTANG PAJAK RUMAH BOLA"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 30 (tiga puluh) jenis Retribusi bagi Kabupaten/Kota, yang terbagi dalam Retribusi Jasa Umum, Retribusi Jasa Usaha dan Retribusi Perizinan tertentu"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 4 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang retribusi daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota berdasarkan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 61 Tahun 2000 tentang Retribusi Lalu Lintas Hasil Hutan Dalam Kabupaten Indragiri Hilir."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 61 TAHUN 2000 TENTANG RETRIBUSI LALU LINTAS HASIL HUTAN DALAM KABUPATEN INDRAGIRI HILIR"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan sistem tertutup (closed list), telah ditetapkan 11 (sebelas) jenis Pajak Kabupaten/Kota"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 1 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang pajak daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota sebagaimana dimaksud dalam Pasal 2 ayat (2) Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 09 Tahun 1991 tentang Izin dan Pajak Pembuatan Kapal Kayu."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 09 TAHUN 1991 TENTANG IZIN DAN PAJAK PEMBUATAN KAPAL KAYU"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 30 (tiga puluh) jenis Retribusi bagi Kabupaten/Kota, yang terbagi dalam Retribusi Jasa Umum, Retribusi Jasa Usaha dan Retribusi Perizinan tertentu"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 4 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang retribusi daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota berdasarkan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 57 Tahun 2000 tentang Retribusi Dokumen Pengadaan Barang Dan Jasa Atas Pemberian Pekerjaan."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 57 TAHUN 2000 TENTANG RETRIBUSI DOKUMEN PENGADAAN BARANG DAN JASA ATAS PEMBERIAN PEKERJAAN"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 30 (tiga puluh) jenis Retribusi bagi Kabupaten/Kota, yang terbagi dalam Retribusi Jasa Umum, Retribusi Jasa Usaha dan Retribusi Perizinan tertentu"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 4 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang retribusi daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota berdasarkan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 12 Tahun 2005 tentang Retribusi Izin Penyelenggaraan Minyak dan Gas Bumi."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 12 TAHUN 2005 TENTANG RETRIBUSI IZIN PENYELENGGARAAN MINYAK DAN GAS BUMI"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 30 (tiga puluh) jenis Retribusi bagi Kabupaten/Kota, yang terbagi dalam Retribusi Jasa Umum, Retribusi Jasa Usaha dan Retribusi Perizinan tertentu"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 4 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang retribusi daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota berdasarkan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 10 Tahun 2005 tentang Retribusi Usaha Pertambangan Umum Daerah Kabupaten Indragiri Hilir."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 10 TAHUN 2005 TENTANG RETRIBUSI USAHA PERTAMBANGAN UMUM DAERAH KABUPATEN INDRAGIRI HILIR"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 30 (tiga puluh) jenis Retribusi bagi Kabupaten/Kota, yang terbagi dalam Retribusi Jasa Umum, Retribusi Jasa Usaha dan Retribusi Perizinan tertentu"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 4 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang retribusi daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota berdasarkan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 07 Tahun 2005 tentang Pengawasan dan Pemeliharaan Jembatan Di Kabupaten Indragiri Hilir."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 07 TAHUN 2005 TENTANG PENGAWASAN DAN PEMELIHARAAN JEMBATAN DI KABUPATEN INDRAGIRI HILIR"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 30 (tiga puluh) jenis Retribusi bagi Kabupaten/Kota, yang terbagi dalam Retribusi Jasa Umum, Retribusi Jasa Usaha dan Retribusi Perizinan tertentu"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 4 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang retribusi daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota berdasarkan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 48 Tahun 2002 tentang Retribusi Perizinan Kegiatan Usaha di Bidang Pariwisata."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 48 TAHUN 2002 TENTANG RETRIBUSI PERIZINAN KEGIATAN USAHA DI BIDANG PARIWISATA"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 30 (tiga puluh) jenis Retribusi bagi Kabupaten/Kota, yang terbagi dalam Retribusi Jasa Umum, Retribusi Jasa Usaha dan Retribusi Perizinan tertentu"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 4 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang retribusi daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota berdasarkan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 23 Tahun 2001 tentang Retribusi Pendaftaran Kapal dan Surat Keterangan Kelayakan Dalam Wilayah Kabupaten Indragiri Hilir."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 23 TAHUN 2001 TENTANG RETRIBUSI PENDAFTARAN KAPAL DAN SURAT KETERANGAN KELAYAKAN DALAM WILAYAH KABUPATEN INDRAGIRI HILIR"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:considers "bahwa dengan diberlakukannya Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah yang menggunakan system tertutup (closed list), telah ditetapkan 30 (tiga puluh) jenis Retribusi bagi Kabupaten/Kota, yang terbagi dalam Retribusi Jasa Umum, Retribusi Jasa Usaha dan Retribusi Perizinan tertentu"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:considers "bahwa dalam rangka menindaklanjuti Pasal 180 angka 4 Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah, perlu melakukan pencabutan terhadap beberapa Peraturan Daerah Kabupaten Indragiri Hilir tentang retribusi daerah yang tidak termasuk dalam kewenangan Kabupaten/Kota berdasarkan Undang-Undang Nomor 28 Tahun 2009 tentang Pajak Daerah dan Retribusi Daerah"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:considers "bahwa berdasarkan pertimbangan sebagaimana dimaksud dalam huruf a dan huruf b, perlu membentuk Peraturan Daerah Kabupaten Indragiri Hilir tentang Pencabutan Peraturan Daerah Nomor 67 Tahun 2000 tentang Retribusi Kendaraan Tidak Bermotor."^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasLegalBasis lexid:UU_1965_6 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasLegalBasis lexid:UU_2004_10 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasLegalBasis lexid:UU_2004_32 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasLegalBasis lexid:UU_2004_33 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasLegalBasis lexid:UU_2009_28 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasLegalBasis lexid:PP_2007_38 .
+lexid:UU_1965_6 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:UU_2004_10 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:UU_2004_32 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:UU_2004_33 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:UU_2009_28 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:PP_2007_38 lexid-s:LegalBasisOf lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:UU_1965_6 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_10 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_32 rdf:type lexid-s:LegalDocument .
+lexid:UU_2004_33 rdf:type lexid-s:LegalDocument .
+lexid:UU_2009_28 rdf:type lexid-s:LegalDocument .
+lexid:PP_2007_38 rdf:type lexid-s:LegalDocument .
+lexid:UU_1965_6 rdfs:label "Undang-Undang Republik Indonesia Nomor 6 Tahun 1965"^^xsd:string .
+lexid:UU_2004_10 rdfs:label "Undang-Undang Republik Indonesia Nomor 10 Tahun 2004"^^xsd:string .
+lexid:UU_2004_32 rdfs:label "Undang-Undang Republik Indonesia Nomor 32 Tahun 2004"^^xsd:string .
+lexid:UU_2004_33 rdfs:label "Undang-Undang Republik Indonesia Nomor 33 Tahun 2004"^^xsd:string .
+lexid:UU_2009_28 rdfs:label "Undang-Undang Republik Indonesia Nomor 28 Tahun 2009"^^xsd:string .
+lexid:PP_2007_38 rdfs:label "Peraturan Pemerintah Republik Indonesia Nomor 38 Tahun 2007"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasDictum "Menetapkan : PERATURAN DAERAH TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 67 TAHUN 2000 TENTANG RETRIBUSI KENDARAAN TIDAK BERMOTOR"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_40 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_40 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_40 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 40 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:regulationNumber "40"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_1992_87 .
+lexid:Perkab_Indragiri_Hilir_1992_87 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_1992_87 .
+lexid:Perkab_Indragiri_Hilir_1992_87 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_40 .
+lexid:Perkab_Indragiri_Hilir_1992_87 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_1992_87 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 87 Tahun 1992"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:name "Pencabutan Peraturan Daerah Nomor 87 Tahun 1992 Tentang Pajak Rumah Bola"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_40 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_41 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_41 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_41 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_41 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 41 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:regulationNumber "41"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2000_61 .
+lexid:Perkab_Indragiri_Hilir_2000_61 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2000_61 .
+lexid:Perkab_Indragiri_Hilir_2000_61 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_41 .
+lexid:Perkab_Indragiri_Hilir_2000_61 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2000_61 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 61 Tahun 2000"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:name "Pencabutan Peraturan Daerah Nomor 61 Tahun 2000 Tentang Retribusi Lalu Lintas Hasil Hutan Dalam Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_41 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_42 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_42 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_42 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_42 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 42 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:regulationNumber "42"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_1991_09 .
+lexid:Perkab_Indragiri_Hilir_1991_09 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_1991_09 .
+lexid:Perkab_Indragiri_Hilir_1991_09 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_42 .
+lexid:Perkab_Indragiri_Hilir_1991_09 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_1991_09 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 09 Tahun 1991"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:name "Pencabutan Peraturan Daerah Nomor 09 Tahun 1991 Tentang Izin Dan Pajak Pembuatan Kapal Kayu"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_42 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_43 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_43 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_43 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_43 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 43 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:regulationNumber "43"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2000_57 .
+lexid:Perkab_Indragiri_Hilir_2000_57 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2000_57 .
+lexid:Perkab_Indragiri_Hilir_2000_57 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_43 .
+lexid:Perkab_Indragiri_Hilir_2000_57 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2000_57 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 57 Tahun 2000"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:name "Pencabutan Peraturan Daerah Nomor 57 Tahun 2000 Tentang Retribusi Dokumen Pengadaan Barang Dan Jasa Atas Pemberian Pekerjaan"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_43 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_44 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_44 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_44 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_44 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 44 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:regulationNumber "44"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2005_12 .
+lexid:Perkab_Indragiri_Hilir_2005_12 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2005_12 .
+lexid:Perkab_Indragiri_Hilir_2005_12 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_44 .
+lexid:Perkab_Indragiri_Hilir_2005_12 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2005_12 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 12 Tahun 2005"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:name "Pencabutan Peraturan Daerah Nomor 12 Tahun 2005 Tentang Retribusi Izin Penyelenggaraan Minyak Dan Gas Bumi"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_44 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_46 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_46 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_46 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_46 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 46 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:regulationNumber "46"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2005_10 .
+lexid:Perkab_Indragiri_Hilir_2005_10 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2005_10 .
+lexid:Perkab_Indragiri_Hilir_2005_10 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_46 .
+lexid:Perkab_Indragiri_Hilir_2005_10 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2005_10 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 10 Tahun 2005"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:name "Pencabutan Peraturan Daerah Nomor 10 Tahun 2005 Tentang Retribusi Usaha Pertambangan Umum Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:City_Tembilahan rdfs:label "Tembilahan"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasEnactionLocation lexid:City_Tembilahan .
+lexid:City_Tembilahan rdf:type lexid-s:City .
+lexid:City_Tembilahan rdf:type owl:Thing .
+lexid:City_Tembilahan owl:sameAs wd:Q6542770 .
+wd:Q6542770 owl:sameAs lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasPromulgationLocation lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_46 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_47 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_47 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_47 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_47 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 47 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:regulationNumber "47"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2005_07 .
+lexid:Perkab_Indragiri_Hilir_2005_07 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2005_07 .
+lexid:Perkab_Indragiri_Hilir_2005_07 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_47 .
+lexid:Perkab_Indragiri_Hilir_2005_07 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2005_07 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 07 Tahun 2005"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:name "Pencabutan Peraturan Daerah Nomor 07 Tahun 2005 Tentang Pengawasan Dan Pemeliharaan Jembatan Di Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:City_Tembilahan rdfs:label "Tembilahan"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasEnactionLocation lexid:City_Tembilahan .
+lexid:City_Tembilahan rdf:type lexid-s:City .
+lexid:City_Tembilahan rdf:type owl:Thing .
+lexid:City_Tembilahan owl:sameAs wd:Q6542770 .
+wd:Q6542770 owl:sameAs lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasPromulgationLocation lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_47 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_48 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_48 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_48 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_48 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 48 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:regulationNumber "48"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2002_48 .
+lexid:Perkab_Indragiri_Hilir_2002_48 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2002_48 .
+lexid:Perkab_Indragiri_Hilir_2002_48 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_48 .
+lexid:Perkab_Indragiri_Hilir_2002_48 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2002_48 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 48 Tahun 2002"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:name "Pencabutan Peraturan Daerah Nomor 48 Tahun 2002 Tentang Retribusi Perizinan Kegiatan Usaha Di Bidang Pariwisata"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:City_Tembilahan rdfs:label "Tembilahan"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasEnactionLocation lexid:City_Tembilahan .
+lexid:City_Tembilahan rdf:type lexid-s:City .
+lexid:City_Tembilahan rdf:type owl:Thing .
+lexid:City_Tembilahan owl:sameAs wd:Q6542770 .
+wd:Q6542770 owl:sameAs lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasPromulgationLocation lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_48 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_49 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_49 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_49 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_49 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 49 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:regulationNumber "49"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2001_23 .
+lexid:Perkab_Indragiri_Hilir_2001_23 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2001_23 .
+lexid:Perkab_Indragiri_Hilir_2001_23 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_49 .
+lexid:Perkab_Indragiri_Hilir_2001_23 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2001_23 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 23 Tahun 2001"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:name "Pencabutan Peraturan Daerah Nomor 23 Tahun 2001 Tentang Retribusi Pendaftaran Kapal Dan Surat Keterangan Kelayakan Dalam Wilayah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:City_Tembilahan rdfs:label "Tembilahan"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasEnactionLocation lexid:City_Tembilahan .
+lexid:City_Tembilahan rdf:type lexid-s:City .
+lexid:City_Tembilahan rdf:type owl:Thing .
+lexid:City_Tembilahan owl:sameAs wd:Q6542770 .
+wd:Q6542770 owl:sameAs lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasPromulgationLocation lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_49 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_50 rdf:type lexid-s:RegencyRegulation .
+lexid:Perkab_Indragiri_Hilir_2010_50 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2010_50 rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_50 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 50 Tahun 2010"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:regulationNumber "50"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2000_67 .
+lexid:Perkab_Indragiri_Hilir_2000_67 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:repeals lexid:Perkab_Indragiri_Hilir_2000_67 .
+lexid:Perkab_Indragiri_Hilir_2000_67 lexid-s:repealedBy lexid:Perkab_Indragiri_Hilir_2010_50 .
+lexid:Perkab_Indragiri_Hilir_2000_67 rdf:type lexid-s:LegalDocument .
+lexid:Perkab_Indragiri_Hilir_2000_67 rdfs:label "Peraturan Daerah Kabupaten Indragiri Hilir Nomor 67 Tahun 2000"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50_Section_1_1 rdf:type lexid-s:Section .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:regulationYear "2010"^^xsd:int .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:name "Pencabutan Peraturan Daerah Nomor 67 Tahun 2000 Tentang Retribusi Kendaraan Tidak Bermotor"^^xsd:string .
+lexid:Position_Bupati_Indragiri_Hilir rdfs:label "Bupati Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasCreator lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Bupati_Indragiri_Hilir rdf:type owl:Thing .
+lexid:City_Tembilahan rdfs:label "Tembilahan"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasEnactionLocation lexid:City_Tembilahan .
+lexid:City_Tembilahan rdf:type lexid-s:City .
+lexid:City_Tembilahan rdf:type owl:Thing .
+lexid:City_Tembilahan owl:sameAs wd:Q6542770 .
+wd:Q6542770 owl:sameAs lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasEnactionDate "2010-12-31"^^xsd:date .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasEnactionOffice lexid:Position_Bupati_Indragiri_Hilir .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasPromulgationLocation lexid:City_Tembilahan .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasPromulgationDate "2010-12-31"^^xsd:date .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdfs:label "Sekretaris Daerah Kabupaten Indragiri Hilir"^^xsd:string .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasPromulgationOffice lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type lexid-s:Position .
+lexid:Position_Sekretaris_Daerah_Kabupaten_Indragiri_Hilir rdf:type owl:Thing .
+lexid:Perkab_Indragiri_Hilir_2010_50 lexid-s:hasPromulgationPlace lexid:Lembaran_Daerah_Kabupaten_Indragiri_Hilir .
