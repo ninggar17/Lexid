@@ -13,6 +13,9 @@ The knowledge graph constructed from the indonesian legal document, which can be
 ### The Triple Data
 The rdf triple is in [data/](https://github.com/ninggar17/Lexid/tree/master/data). Use [data/turtle_map.csv](https://github.com/ninggar17/Lexid/blob/master/data/turtle_map.csv) to get the location of turtle file of specific legal document.
 
+### Sample QnA
+The Tested QnA is in [questions/](https://github.com/ninggar17/Lexid/tree/master/questions).
+
 ### Query Example
 In Progress
 
